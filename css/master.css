@@ -1,0 +1,92 @@
+body{
+  background-color: #f6eedf;
+  text-align: center;
+}
+
+.soon{
+  margin: 2% auto 10% auto ;
+
+}
+
+h2{
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-size: 4vw;
+  font-family: 'Lato', sans-serif;
+}
+
+
+img{
+  width: 25%;
+  height: 25%;
+}
+
+.inp1{
+margin: 2vw 1vw 2vw 1vw;
+width: 25vw;
+height: 3vw;
+background-color: #f6eedf;
+border-style: solid;
+border-radius: 100px;
+outline: none;
+display: inline-block;
+position: relative;
+}
+
+
+input[type="submit"]{
+  margin: 2vw 1vw 2vw 1vw;
+  width: 10vw;
+  height: 3vw;
+  border-style: none;
+  border-radius: 40px;
+  outline: none;
+  display: inline-block;
+  background-color: black;
+  color: #f6eedf;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.4vw;
+  text-align: center;
+  font-weight: normal;
+  cursor: pointer;
+  cursor-color: #f6eedf;
+}
+.inp2:hover{
+  margin: 2vw 1vw 2vw 1vw;
+  width: 10vw;
+  height: 3vw;
+  border-radius: 40px;
+  outline: none;
+  display: inline-block;
+  background-color: #f6eedf;
+  color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.4vw;
+  text-align: center;
+  font-weight: normal;
+  cursor: pointer;
+  cursor-color: #f6eedf;
+
+
+}
+
+
+input[type="email"]{
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5vw;
+  text-align: center;
+  font-weight: normal;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 5px;
+  font-size: 1.5vw;
+}
+
+.para1{
+  margin-top: 5px;
+}
