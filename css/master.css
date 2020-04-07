@@ -1,5 +1,5 @@
 body{
-  background-color: #f6eedf;
+  background-color: #ededed;
   text-align: center;
 }
 
@@ -25,7 +25,7 @@ img{
 margin: 2vw 1vw 2vw 1vw;
 width: 25vw;
 height: 3vw;
-background-color: #f6eedf;
+background-color: #ededed;
 border-style: solid;
 border-radius: 100px;
 outline: none;
@@ -43,13 +43,13 @@ input[type="submit"]{
   outline: none;
   display: inline-block;
   background-color: black;
-  color: #f6eedf;
+  color: #ededed;
   font-family: 'Lato', sans-serif;
   font-size: 1.4vw;
   text-align: center;
   font-weight: normal;
   cursor: pointer;
-  cursor-color: #f6eedf;
+  cursor-color: #ededed;
 }
 .inp2:hover{
   margin: 2vw 1vw 2vw 1vw;
@@ -58,7 +58,7 @@ input[type="submit"]{
   border-radius: 40px;
   outline: none;
   display: inline-block;
-  background-color: #f6eedf;
+  background-color: #ededed;
   color: black;
   border-style: solid;
   border-color: black;
@@ -68,7 +68,7 @@ input[type="submit"]{
   text-align: center;
   font-weight: normal;
   cursor: pointer;
-  cursor-color: #f6eedf;
+  cursor-color: #ededed;
 
 
 }
